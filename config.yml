@@ -1,0 +1,7 @@
+message:
+ no-bug: "Il n'y a aucun bug"
+ bug-send: "Votre rapport a bien ete transmis"
+ bug-remove: "Le rapport a ete supprime"
+ bug-use: "&6Utilisation &f: /reportbug <votre message>"
+ list-bug: "[%nb%] %buglist%"
+ bug-save: "&6%username% : &f%msgbug%"

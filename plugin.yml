@@ -1,0 +1,7 @@
+name: ReportBug
+author: Foxxen
+version: 1.0
+main: fr.foxxen.MainReportBug
+commands:
+ reportbug:
+  description: Permet de declare un bug aux moderateurs
